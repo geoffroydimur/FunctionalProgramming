@@ -1,0 +1,11 @@
+{"ID":1,"Etat":false,"BatterieFaible":true,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Nord","Temp":25,"Alerte":false,"Heure":12,"Minute":21}
+{"ID":2,"Etat":false,"BatterieFaible":true,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Nord","Temp":25.3,"Alerte":false,"Heure":12,"Minute":22}
+{"ID":3,"Etat":false,"BatterieFaible":true,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Nord","Temp":7,"Alerte":false,"Heure":6,"Minute":54}
+{"ID":4,"Etat":false,"BatterieFaible":false,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Nord","Temp":5,"Alerte":false,"Heure":1,"Minute":10}
+{"ID":5,"Etat":false,"BatterieFaible":false,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Nord","Temp":20,"Alerte":false,"Heure":13,"Minute":21}
+{"ID":6,"Etat":false,"BatterieFaible":false,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Nord","Temp":18,"Alerte":true,"Heure":3,"Minute":0}
+{"ID":7,"Etat":false,"BatterieFaible":true,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Sud","Temp":32,"Alerte":false,"Heure":12,"Minute":21}
+{"ID":8,"Etat":false,"BatterieFaible":true,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Sud","Temp":21,"Alerte":false,"Heure":12,"Minute":22}
+{"ID":9,"Etat":false,"BatterieFaible":true,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Sud","Temp":25.4,"Alerte":false,"Heure":6,"Minute":54}
+{"ID":10,"Etat":false,"BatterieFaible":false,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Sud","Temp":10,"Alerte":false,"Heure":1,"Minute":10}
+{"ID":11,"Etat":false,"BatterieFaible":false,"Action":1,"ID_Objectif":1,"ID_Obs":2,"Hemisphere":"Sud","Temp":12,"Alerte":false,"Heure":13,"Minute":21}

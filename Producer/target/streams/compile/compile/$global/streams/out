@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/geoffroydimur/Desktop/Efrei/S8/Functional Programming/Producer/src/main/scala/Project/ReineProducer.scala:20:106: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(25.3)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Float[0m
+[0m[[0m[31merror[0m] [0m[0m  producer.send(new ProducerRecord("atopic","2",Json.stringify(Json.toJson(Reine(false,true,1,1,2,"Nord",25.3,false, 12, 22)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/geoffroydimur/Desktop/Efrei/S8/Functional Programming/Producer/src/main/scala/Project/ReineProducer.scala:28:105: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(25.4)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Float[0m
+[0m[[0m[31merror[0m] [0m[0m  producer.send(new ProducerRecord("atopic","9",Json.stringify(Json.toJson(Reine(false,true,1,1,2,"Sud",25.4,false, 6, 54)))))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
